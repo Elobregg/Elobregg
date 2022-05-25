@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **PHP & Laravel**
 
-- 📫 How to reach me **elobregg@gmail.com**
+- 📫 How to reach me **coming soon**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
