@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **PHP & Laravel**
 - 👯 I’m looking to collaborate on **Laravel Projects**
-- 📫 You can reach me on Twitter @merlindoescode
+- 📫 You can reach me on Twitter <href="https://twitter.com/merlindoescode">@merlindoescode 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
