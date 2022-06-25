@@ -13,7 +13,7 @@
 
 <h3 align="left">Projects I am working on:</h3>
 
-- 🚧 Personal Website: [merlindoescode.com](https://merlindoescode.com)
+- 🚧 Personal Website: [merlindoescode.com](http://merlindoescode.com)
 
 <h3 align="left">Languages & Tools</h3>
 <p align="left"> 
