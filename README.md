@@ -1,4 +1,4 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35">Hi , I'm Merlin Seela</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="35"> Hi , I'm Merlin Seela</h1>
 <h3 align="left">About me</h3> 
 
 - 🌱 I’m currently learning **PHP & Laravel**
