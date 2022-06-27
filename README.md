@@ -7,7 +7,8 @@
 
 <h3 align="left">Languages to contact me with</h3>
 
-|:--|:--|
+| Flag | Level |
+|:--:|:--|
 | <img src="https://user-images.githubusercontent.com/101634748/175788060-67c0c4c7-3722-4f11-920f-7c7be3ebb312.svg" width="40"> | Native | 
 | <img src="https://user-images.githubusercontent.com/101634748/175789466-c9b5eff7-8593-4b47-9db2-ef971262c59f.png" width="40"> | Limited Working Proficiency  |
 
