@@ -6,7 +6,6 @@
     - **PHP & Laravel**
     - **HTML & CSS**
     - **JavaScript**
-- 👯 I’m looking to collaborate on **Laravel Projects**
 - 📫 You can reach me on Twitter **[@merlindoescode](https://twitter.com/merlindoescode)**
 
 ### **Languages to contact me with**
