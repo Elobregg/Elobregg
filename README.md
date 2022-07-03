@@ -8,16 +8,16 @@
     - **JavaScript**
 - 📫 You can reach me on Twitter **[@merlindoescode](https://twitter.com/merlindoescode)**
 
+### **Projects (🚧 = work in progress)**
+
+- 🚧 Personal Website: [merlindoescode.com](http://merlindoescode.com)
+
 ### **Languages to contact me with**
 
 | Flag | Level |
 |:--:|:--|
 | <img src="https://user-images.githubusercontent.com/101634748/175788060-67c0c4c7-3722-4f11-920f-7c7be3ebb312.svg" width="40"> | Native | 
 | <img src="https://user-images.githubusercontent.com/101634748/175789466-c9b5eff7-8593-4b47-9db2-ef971262c59f.png" width="40"> | Limited Working Proficiency  |
-
-### **Projects I am working on**
-
-- 🚧 Personal Website: [merlindoescode.com](http://merlindoescode.com)
 
 ### **Languages & Tools**
 <p>
