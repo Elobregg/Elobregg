@@ -10,7 +10,7 @@
 
 ### **Projects (🚧 = work in progress)**
 
-- 🚧 Personal Website: [merlindoescode.com](http://merlindoescode.com)
+- No Projects in the pipeline for now.
 
 ### **Languages to contact me with**
 
