@@ -3,7 +3,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/merlindoescode?style=social)](https://twitter.com/intent/follow?screen_name=merlindoescode)
 [![GitHub followers](https://img.shields.io/github/followers/merlindoescode?label=Follow&style=social)](https://github.com/merlindoescode/?tab=follow)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/merlinseela/)](https://www.linkedin.com/in/merlinseela/)
-[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2merlindoescode&logo=leetcode&logoColor=yellow)](https://leetcode.com/merlindoescode/)
+[![LeetCode](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fmerlindoescode&logo=leetcode&logoColor=yellow)](https://leetcode.com/merlindoescode/)
 
 ### **About me** 
 
