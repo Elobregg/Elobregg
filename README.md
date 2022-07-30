@@ -7,10 +7,9 @@
 
 ### **About me** 
 
-- 🌱 I’m currently learning:
-    - **PHP & Laravel**
-    - **HTML & CSS**
-    - **JavaScript**
+I like to automate my personal workflows and get more efficient every day.
+
+- 🌱 I’m currently learning: **JavaScript**
 - 📫 You can reach me on Twitter **[@merlindoescode](https://twitter.com/merlindoescode)**
 
 ### **Projects (🚧 = work in progress)**
