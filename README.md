@@ -7,6 +7,7 @@
 
 ### Libraries & Frameworks
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
+![Static Badge](https://img.shields.io/badge/BaSyx-0386b7?style=for-the-badge)
 
 ### IDE
 ![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
