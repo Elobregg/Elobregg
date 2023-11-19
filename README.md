@@ -9,8 +9,10 @@
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev/)
 [![Static Badge](https://img.shields.io/badge/BaSyx-0386b7?style=for-the-badge)](https://github.com/eclipse-basyx)
 
-### IDE
+### IDEs & Engines
 [![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+[![Godot](https://img.shields.io/badge/godot-engine?style=for-the-badge&logo=godot-engine&logoColor=white&color=%235abbff
+)](https://godotengine.org/)
 
 ## Projects
 <a href="https://github.com/TheWorldIsOneObject"><img src="https://avatars.githubusercontent.com/u/142671489?s=200&v=4" alt="HTML tutorial" style="width:100px;height:100px;"></a>
