@@ -15,7 +15,12 @@
 )](https://godotengine.org/)
 
 ## Projects
-<a href="https://github.com/TheWorldIsOneObject"><img src="https://avatars.githubusercontent.com/u/142671489?s=200&v=4" alt="HTML tutorial" style="width:100px;height:100px;"></a>
+
+| [TWIOO](https://github.com/TheWorldIsOneObject) | [Ozoss](https://github.com/merlinseela/Ozoss) |
+| ----- | ----- |
+| <a href="https://github.com/TheWorldIsOneObject"><img src="https://avatars.githubusercontent.com/u/142671489?s=200&v=4" alt="TheWorldIsOneObject Logo" style="width:100px;height:100px;"></a> | <a href="https://github.com/merlinseela/Ozoss"><img src="https://raw.githubusercontent.com/merlinseela/Ozoss/main/docs/addRes/GitHubProfilePicture.png" alt="Ozoss Logo" style="width:100px;height:100px;"></a> |
+
+
 
 ## How to contact me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlinseela/?locale=en_US)
