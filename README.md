@@ -7,8 +7,9 @@ My name is Merlin. I am a self-taught developer. I specialize in Digital Twins a
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
 
-### Libraries & Frameworks
-[![Static Badge](https://img.shields.io/badge/BaSyx-0386b7?style=for-the-badge)](https://github.com/eclipse-basyx)
+### Libraries, Frameworks, Technologies
+[![BaSyx](https://img.shields.io/badge/BaSyx-0386b7?style=for-the-badge)](https://github.com/eclipse-basyx)
+[![AAS](https://img.shields.io/badge/AAS-0421c3?style=for-the-badge)](https://github.com/eclipse-basyx)
 
 ### IDEs & Engines
 [![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
