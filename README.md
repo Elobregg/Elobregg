@@ -1,5 +1,7 @@
 # Hey! Nice to see you.
 
+My name is Merlin. I am a self-taught developer. I specialize in Digital Twins and Industry 4.0 Technologies working with Java and Python. In my free time I work on TheWorldIsOneObject or on my first game called Ozoss using Godot. Ask me anything!
+
 ## Techstack?
 ### Languages
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
