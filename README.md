@@ -24,3 +24,4 @@ If you want to have a look at the code/projects within the organizations feel fr
 
 ## How to contact me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlinseela/?locale=en_US)
+[![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/iamamerlin)
