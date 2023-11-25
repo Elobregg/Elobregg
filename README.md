@@ -8,7 +8,6 @@ My name is Merlin. I am a self-taught developer. I specialize in Digital Twins a
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
 
 ### Libraries & Frameworks
-[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev/)
 [![Static Badge](https://img.shields.io/badge/BaSyx-0386b7?style=for-the-badge)](https://github.com/eclipse-basyx)
 
 ### IDEs & Engines
