@@ -17,11 +17,6 @@
 ## Projects
 <a href="https://github.com/TheWorldIsOneObject"><img src="https://avatars.githubusercontent.com/u/142671489?s=200&v=4" alt="HTML tutorial" style="width:100px;height:100px;"></a>
 
-## Important note:
-I am mostly contributing to private projects. Usaly this would be shown in my contribution graph. However most, if not all, private projects are collaborations with my [brother](https://github.com/engineerTrooper). For easier managing access we are using the free tier of githubs organizations feature. This puts limitations on GitHub collecting data for the contribution graph.
-
-If you want to have a look at the code/projects within the organizations feel free to contact me and we can work something out.
-
 ## How to contact me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlinseela/?locale=en_US)
 [![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/iamamerlin)
