@@ -9,7 +9,7 @@ My name is Merlin. I am a self-taught developer. I specialize in Digital Twins a
 
 ### Libraries, Frameworks, Technologies
 [![BaSyx](https://img.shields.io/badge/BaSyx-0386b7?style=for-the-badge)](https://github.com/eclipse-basyx)
-[![AAS](https://img.shields.io/badge/AAS-0421c3?style=for-the-badge)](https://github.com/eclipse-basyx)
+[![AAS](https://img.shields.io/badge/AAS-0421c3?style=for-the-badge)](https://industrialdigitaltwin.org/en/content-hub/aasspecifications)
 
 ### IDEs & Engines
 [![VS-Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
