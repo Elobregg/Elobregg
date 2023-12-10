@@ -21,6 +21,7 @@ My name is Merlin. I am a self-taught developer. I specialize in Digital Twins a
 | [TWIOO](https://github.com/TheWorldIsOneObject) | [Ozoss](https://github.com/merlinseela/Ozoss) |
 | ----- | ----- |
 | <a href="https://github.com/TheWorldIsOneObject"><img src="https://avatars.githubusercontent.com/u/142671489?s=200&v=4" alt="TheWorldIsOneObject Logo" style="width:100px;height:100px;"></a> | <a href="https://github.com/merlinseela/Ozoss"><img src="https://raw.githubusercontent.com/merlinseela/Ozoss/main/docs/addRes/GitHubProfilePicture.png" alt="Ozoss Logo" style="width:100px;height:100px;"></a> |
+| State: Public | State: Private |
 
 
 
