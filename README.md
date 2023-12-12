@@ -6,7 +6,7 @@ My name is Merlin. I am a self-taught developer. I specialize in Digital Twins a
 ### Languages
 [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)](https://www.python.org/)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://dev.java/)
-[![GDScript](https://img.shields.io/badge/GDSript-5abbff?style=for-the-badge)](https://docs.godotengine.org/en/latest/tutorials/scripting/gdscript/index.html)
+[![GDScript](https://img.shields.io/badge/GDScript-5abbff?style=for-the-badge)](https://docs.godotengine.org/en/latest/tutorials/scripting/gdscript/index.html)
 
 ### Libraries, Frameworks, Technologies
 [![BaSyx](https://img.shields.io/badge/BaSyx-0386b7?style=for-the-badge)](https://github.com/eclipse-basyx)
