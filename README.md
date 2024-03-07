@@ -29,3 +29,4 @@ My name is Merlin, I am a self-taught developer for Java/Python. I specialize in
 ## How to contact me?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlinseela/?locale=en_US)
 [![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/iamamerlin)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/ADt6Skn7Rm)
