@@ -23,7 +23,6 @@ My name is Merlin, I am a self-taught developer for Java/Python. I specialize in
 | <a href="https://github.com/merlinseela/mycelium-roads-14th-piratesoftware-gamejam"><img src="https://img.itch.zone/aW1nLzE0NzkyNzkwLnBuZw==/315x250%23c/LEAV66.png" style="width:140px;height:100px;"></a> | <a href="https://github.com/merlinseela/draw-a-path"><img src="https://raw.githubusercontent.com/merlinseela/draw-a-path/main/documentation/ingame.png" style="width:140px;height:100px;"></a> |
 |                                                                                        State: Public / Discontinued                                                                                         |                                                                                  State: Public / Discontinued                                                                                  |
 
-https://iamamerlin.itch.io/draw-a-path
 ### Private Code / Public Executables
 | Slime Boss Simulator  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
