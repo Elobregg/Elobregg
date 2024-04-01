@@ -1,6 +1,6 @@
 # Hey! Nice to see you.
 
-My name is Merlin, I am a self-taught developer for Java/Python. I specialize in Digital Twins and Industry 4.0 Technologies. In my free time I work on  on my first game called Ozoss, a 2D-Action-Platformer with Roguelike elements focusing on pixel-perfect combat and dynamic attack combinations using Godot. Ask me anything!
+Hey! I'm Merlin, a research developer specializing in Digital Twins and Industry 4.0 Technologies working with Java and Python. In my free time I work on a variaty of things around game dev using Godot. Ask me anything!
 
 ## Techstack?
 ### Languages
