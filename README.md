@@ -27,7 +27,7 @@ Hey! I'm Merlin, a research developer specializing in Digital Twins and Industry
 | Slime Boss Simulator  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://github.com/merlinseela/mycelium-roads-14th-piratesoftware-gamejam"><img src="https://img.itch.zone/aW1nLzE1MjY2NzQ4LnBuZw==/315x250%23c/Vxop5D.png" style="width:140px;height:100px"></a> |
-| Prototype Available / In Development |
+| Prototype Available / Discontinued |
 
 ## Organizations
 | <a href="https://github.com/TheWorldIsOneObject"><img src="https://avatars.githubusercontent.com/u/142671489?s=200&v=4" style="width:100px;height:100px;"></a> |
