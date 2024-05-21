@@ -17,6 +17,7 @@ Hey! I'm Merlin, a research developer specializing in Digital Twins and Industry
 [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://html.spec.whatwg.org/)
 [![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/current-work)
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://devdocs.io/c/)
 
 ### Libraries, Frameworks, Technologies
 [![BaSyx](https://img.shields.io/badge/BaSyx-0386b7?style=for-the-badge)](https://github.com/eclipse-basyx)
@@ -29,6 +30,7 @@ Hey! I'm Merlin, a research developer specializing in Digital Twins and Industry
 [![Godot](https://img.shields.io/badge/godot-engine?style=for-the-badge&logo=godot-engine&logoColor=white&color=%235abbff)](https://godotengine.org/)
 [![Matlab](https://img.shields.io/badge/MATLAB-da5c10?style=for-the-badge)](https://de.mathworks.com/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)](https://www.djangoproject.com/)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://www.postman.com/)
 
 ## Projects
