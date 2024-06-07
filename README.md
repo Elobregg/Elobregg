@@ -45,7 +45,7 @@ Hey! I'm Merlin, a research developer specializing in Digital Twins and Industry
 ### Private Code / Public Executables
 | Slime Boss Simulator  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://github.com/merlinseela/mycelium-roads-14th-piratesoftware-gamejam"><img src="https://img.itch.zone/aW1nLzE1MjY2NzQ4LnBuZw==/315x250%23c/Vxop5D.png" style="width:140px;height:100px"></a> |
+| <a href="https://iamamerlin.itch.io/slime-boss-simulator"><img src="https://img.itch.zone/aW1nLzE1MjY2NzQ4LnBuZw==/315x250%23c/Vxop5D.png" style="width:140px;height:100px"></a> |
 | Prototype Available / Discontinued |
 
 ## Organizations
