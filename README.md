@@ -1,6 +1,6 @@
 # Hey! Nice to see you.
 
-I'm Merlin, a technical computer scientist specializing in Digital Twins and Industry 4.0 technologies. A part of my related work is published via [TWIOO](). In my free time I work on a variaty of things around game dev using Godot. Ask me anything!
+I'm Merlin, a technical computer scientist specializing in Digital Twins and Industry 4.0 technologies. Part of my related work is published via [TWIOO](https://github.com/TheWorldIsOneObject/). On the side I am building interactive Stream Overlays using Godot for my Twitch Channel.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlinseela/?locale=en_US)
 [![Twitch](https://img.shields.io/badge/Twitch-a970ff?style=for-the-badge&logo=Twitch&logoColor=white)](https://www.twitch.tv/iamamerlin)
